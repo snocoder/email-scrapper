@@ -55,4 +55,4 @@ def f(email_id, password):
     # arr = [last_index, email_from, email_subject, email_date, email_body]
     return arr
 
-print(f("snocoder@gmail.com", "snooker123@4"))
+print(f("xxx@gmail.com", "######"))
